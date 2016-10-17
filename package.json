@@ -1,0 +1,24 @@
+{
+  "name": "texttv_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikstenlund/texttvServer.git"
+  },
+  "author": "Erik Stenlund",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erikstenlund/texttvServer/issues"
+  },
+  "homepage": "https://github.com/erikstenlund/texttvServer#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.10"
+  }
+}
